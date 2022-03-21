@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+}
+
+.div1 {
+     float: right;
+}
+
+.div2 {
+    float: left;
+}
+
+img{
+    width: 200px;
+    border-radius: 100px;
+    height: 200px;
+}
